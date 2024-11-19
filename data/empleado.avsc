@@ -1,0 +1,19 @@
+{
+  "type": "record",
+  "namespace": "SeveroOchoa",
+  "name": "Empleado",
+  "fields": [
+    {
+      "name": "Nombre",
+      "type": "string"
+    },
+    {
+      "name": "Altura",
+      "type": "float"
+    },
+    {
+      "name": "Edad",
+      "type": "int"
+    }
+  ]
+}
