@@ -14,9 +14,10 @@ El objetivo de este repositorio es proporcionar ejemplos prácticos de cómo cre
 
 ## Estructura del Repositorio
 
-- **notebooks/**: Contiene los notebooks de Databricks con los ejercicios prácticos.
+- **notebook**: Contenido principal de la páctica.
 - **datasets/**: Archivos de datos (CSV, Parquet, etc.) utilizados para realizar las transformaciones y análisis en los RDDs.
 - **images/**: Imágenes generadas a partir de las visualizaciones y resultados de las transformaciones y análisis.
+- **solutions/**: Contiene el notebook con algunos recursos extra que se piden en la práctica.
 - **README.md**: Este archivo, que proporciona información sobre el proyecto y cómo empezar.
 
 ## Requisitos Previos
@@ -25,6 +26,8 @@ Para poder ejecutar los notebooks en **Databricks**, necesitarás:
 
 - **Cuenta en Databricks**: Si aún no tienes una cuenta, puedes crear una [aquí](https://databricks.com/).
 - **Acceso a los archivos de datos**: Asegúrate de cargar los datasets en Databricks en la carpeta de **Inputs** antes de ejecutar el notebook.
+
+>Nota: Se recomienda usar `Databricks` para esta práctica, ya que las rutas están adaptadas a su entorno. Sin embargo, también es posible realizarla en otros notebooks con ajustes en las rutas.
 
 ## Cómo ejecutar el notebook
 
@@ -50,13 +53,3 @@ Al ejecutar los notebooks, podrás obtener:
 - **Transformaciones y acciones realizadas sobre los RDDs**: Verás cómo manipular grandes volúmenes de datos utilizando RDDs en un entorno distribuido.
 - **Visualizaciones**: Imágenes que muestran las visualizaciones generadas a partir de los datos transformados.
 - **Análisis de rendimiento**: En algunos casos, se analizará cómo las diferentes transformaciones afectan el tiempo de ejecución y el rendimiento.
-
-## Contribuciones
-
-Si deseas contribuir a este repositorio, ¡serás bienvenido! Puedes abrir un **Pull Request** con sugerencias o mejoras. No dudes en proponer nuevos ejercicios o ejemplos sobre RDDs en Spark.
-
-## Licencia
-
-Este repositorio está bajo la licencia MIT. Para más detalles, consulta el archivo [LICENSE](LICENSE).
-
----
