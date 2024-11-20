@@ -1,4 +1,6 @@
-# RDD Transformations and Actions in Spark
+# Practicando RDD en Databricks
+
+![RDD en Databricks](https://github.com/user-attachments/assets/0f9d7e23-bf1e-45bc-b2b5-f94bad6001bd)
 
 Este repositorio contiene ejercicios prácticos sobre **RDDs (Resilient Distributed Datasets)** en **Apache Spark**, enfocados en **transformaciones** y **acciones**. Los RDDs son una de las estructuras de datos clave de Spark que permiten realizar operaciones distribuidas sobre grandes volúmenes de datos de manera eficiente.
 
