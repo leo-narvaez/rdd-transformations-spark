@@ -19,7 +19,7 @@ El objetivo de este repositorio es proporcionar ejemplos prácticos de cómo cre
 - **notebook**: Contenido principal de la páctica.
 - **datasets/**: Archivos de datos (CSV, Parquet, etc.) utilizados para realizar las transformaciones y análisis en los RDDs.
 - **images/**: Imágenes generadas a partir de las visualizaciones y resultados de las transformaciones y análisis.
-- **solutions/**: Contiene el notebook con algunos recursos extra que se piden en la práctica.
+- **solutions/**: Contiene el notebook solucionado con algunos recursos extra que se piden en la práctica.
 - **README.md**: Este archivo, que proporciona información sobre el proyecto y cómo empezar.
 
 ## Requisitos Previos
